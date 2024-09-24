@@ -1,0 +1,3 @@
+Fireball:3
+Strike:4
+Game ender: 9
