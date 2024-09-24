@@ -1,0 +1,12 @@
+Deck ID: 211349791
+Total Energy Cost: 7
+Energy Cost Histogram:
+0 energy: 0
+1 energy: 0
+2 energy: 0
+3 energy: 1
+4 energy: 1
+5 energy: 0
+6 energy: 0
+Invalid Cards:
+Game ender: 9
